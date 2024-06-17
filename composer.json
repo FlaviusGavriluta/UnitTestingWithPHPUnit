@@ -1,0 +1,9 @@
+{
+    "name": "codecool-curriculum/unit-testing-with-phpunit",
+    "type": "tutorial",
+    "autoload": {
+        "psr-4": {
+            "Number\\": "src/"
+        }
+    }
+}
